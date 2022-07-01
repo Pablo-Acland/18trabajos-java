@@ -1,0 +1,12 @@
+
+5
+java:S1659"Declare "a" on a separate line.(¡ì”
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(–×‘¨ÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‡Ä…
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Àš‰»
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æ•ı•ÿÿÿÿÿ8º£ş¢ï/
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8½ÅÉ¢ï/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Å°£
+0
+java:S1220""Move this file to a named package.

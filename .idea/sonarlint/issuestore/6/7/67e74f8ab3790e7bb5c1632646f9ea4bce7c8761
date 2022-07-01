@@ -1,0 +1,19 @@
+
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’Æ¢
+j	java:S116"PRename this field "Ideal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ï–şÿÿÿÿ
+m	java:S116"SRename this field "Inferior" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ŞÜ±şÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(×±—Û
+<
+java:S1170"!Make this final field static too.(¾Ï–şÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(—ŞÜ±şÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(’Æ¢
+D
+java:S1905,")Remove this unnecessary cast to "double".(€ù®íûÿÿÿÿ
+W
+java:S11269"AReplace this if-then-else statement by a single return statement.(ÀíÑı
+4
+java:S2119U"Save and re-use this "Random".(¡Å”¦
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†˜›ÿÿÿÿÿ

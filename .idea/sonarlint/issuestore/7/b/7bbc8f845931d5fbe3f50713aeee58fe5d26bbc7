@@ -1,0 +1,35 @@
+
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾ÿ‘ þÿÿÿÿ
+t	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÄÑæ÷þÿÿÿÿ
+n	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(æ»Ô9
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—üŒ“ÿÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¾ÿ‘ þÿÿÿÿ
+`
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(ÄÑæ÷þÿÿÿÿ
+Z
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(æ»Ô9
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(—üŒ“ÿÿÿÿÿ
+h
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(ó‘ä¸
+@
+java:S1068	"%Remove this unused "p" private field.(ÄÑæ÷þÿÿÿÿ
+;
+java:S1068
+"&Remove this unused "pb" private field.(æ»Ô9
+b
+java:S11923"GUse already-defined constant 'c' instead of duplicating its value here.(ªÏ×¦úÿÿÿÿ
+W
+java:S49733"<Strings and Boxed types should be compared using "equals()".(ªÏ×¦úÿÿÿÿ
+W
+java:S49733"<Strings and Boxed types should be compared using "equals()".(ªÏ×¦úÿÿÿÿ
+W
+java:S49733"<Strings and Boxed types should be compared using "equals()".(ªÏ×¦úÿÿÿÿ
+W
+java:S49733"<Strings and Boxed types should be compared using "equals()".(ªÏ×¦úÿÿÿÿ
+W
+java:S49733"<Strings and Boxed types should be compared using "equals()".(ªÏ×¦úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½å»©ÿÿÿÿÿ
